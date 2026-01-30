@@ -25,6 +25,8 @@ M=D
 D=M
 @i
 D=D+M
+@suma_acumulada
+M=D
 
 @i
 D=M+1
@@ -50,5 +52,6 @@ M=D
 
 
 ## Bitácora de reflexión
+
 
 
