@@ -49,9 +49,11 @@ M=D
 (END)
 0;JMP
 
+<img width="1479" height="856" alt="Captura de pantalla 2026-01-30 163010" src="https://github.com/user-attachments/assets/1c8cd8e6-9489-4e6b-8f42-ae247b0a14c4" />
 
 
 ## Bitácora de reflexión
+
 
 
 
