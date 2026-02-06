@@ -74,7 +74,55 @@ M=D
 (fin)
 0;JMP
 
+##Actividad 5
+
+@10
+D=A
+@a
+M=D
+
+//Direccion de la variable 
+// p = &a
+@a  
+D=A
+@p
+M=D
+
+// *p =20 
+@20
+D=A
+
+@p
+A=M
+M=D
+
+##Parte 2
+
+@10
+D=A
+@a
+M=D
+
+@5
+D=A
+@b
+M=D
+
+@a 
+D=A
+@p
+M=D
+
+// A=contenido de p, pero p tiene la direccion de A
+@p
+A=M  // A = 16
+D=M   // D = contenido de la direccion 16 = 10
+@b
+M=D  // Guardando en 17 (b) el 10 que esta en D
+
+
 ## Bitácora de reflexión
+
 
 
 
