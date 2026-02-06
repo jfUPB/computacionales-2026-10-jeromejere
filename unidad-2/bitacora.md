@@ -120,8 +120,12 @@ D=M   // D = contenido de la direccion 16 = 10
 @b
 M=D  // Guardando en 17 (b) el 10 que esta en D
 
+##Actividad 6
+
+
 
 ## Bitácora de reflexión
+
 
 
 
