@@ -121,10 +121,77 @@ D=M   // D = contenido de la direccion 16 = 10
 M=D  // Guardando en 17 (b) el 10 que esta en D
 
 ##Actividad 6
+...
+##Actividad 7
 
+(start)
+
+//int result = 0;
+
+@result
+M=0
+
+/*
+int main()
+{
+  result = sum(3, 4);
+  std::cout << "The sum: " << result << std::endl;
+}
+*/
+
+// Load sum arguments
+@3
+D=A
+@R0
+M=D
+@4
+D=A
+@R1
+M=D
+
+// Save return address
+@returnFromSum
+D=A
+@R15
+M=D
+
+// call sum
+@sum
+0;JMP
+
+// return after sum
+// and store result
+(returnFromSum)
+@R0
+D=M
+@result
+M=D
+
+@fin
+(fin)
+0;JMP
+
+/*
+int sum(int a, int b)
+{
+    return a + b;
+}
+*/
+
+(sum)
+@R0
+D=M
+@R1
+D=D+M
+@R0
+M=D
+@R15
+A=M
+0;JMP
 
 
 ## Bitácora de reflexión
+
 
 
 
