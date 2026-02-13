@@ -191,6 +191,7 @@ A=M
 
 ## Actividad 8
 
+```asm
 @10
 D=A
 @a
@@ -260,13 +261,21 @@ M=D
     //Creamos función swap, asignando pocisiones temporales
     //El programa intercala el valor de b con el de a en R16 y R17
 
+```
+
 <img width="394" height="193" alt="Captura de pantalla 2026-02-13 142450" src="https://github.com/user-attachments/assets/35688159-e029-41c2-b951-75c0dd67adb0" />
+
 Se muestran los valores de a y b  guardados en R16 y R17 
+
 <img width="859" height="471" alt="image" src="https://github.com/user-attachments/assets/8ae047df-61ee-4375-862f-462656fadb42" />
+
 Se muestran las pocisiones de a y b usadas como puntero para el intercambio 
+
 <img width="824" height="727" alt="Captura de pantalla 2026-02-13 142826" src="https://github.com/user-attachments/assets/16e13cc3-35b1-45a5-896c-eddc057c55f1" />
+
 Valores intercambiados de a y b
 
+```asm
 @10
 D=A
 @arr0
@@ -379,11 +388,14 @@ M=D
     A=M
     0;JMP
 //Finalizamos el loop
-
+```
 
 <img width="851" height="741" alt="Captura de pantalla 2026-02-13 152416" src="https://github.com/user-attachments/assets/5d4ea655-5e69-40c7-ac00-9313528f872b" />
+
 Guardamos y mostramos en memoria el valor de cada arreglo 
+
 <img width="866" height="861" alt="Captura de pantalla 2026-02-13 163949" src="https://github.com/user-attachments/assets/52e923e6-8893-4564-9ceb-d5478468bb7f" />
+
 De a poco va a sumando, el resultado de la suma por etapas se muestra en R22 
 El loop se repite hasta sumar todos los valores de cada arreglo
 
@@ -391,11 +403,15 @@ El loop se repite hasta sumar todos los valores de cada arreglo
 
 El resultado de la suma de los arreglos es 80 y se guarda en R0
 
+
+## Bitácora de reflexión
+
 ## Actividad 9
 
 <img width="1211" height="787" alt="image" src="https://github.com/user-attachments/assets/88975e70-8a6d-4175-90de-01eb51626885" />
 Bit map editor design 
 
+```asm
 (draw)
 	// put bitmap location value in R12
 	// put code return address in R13
@@ -861,9 +877,9 @@ Bit map editor design
 	D;JMP
 
 //Esta wea esta muy largaaaaa
+```
 
 
-## Bitácora de reflexión
 
 
 
