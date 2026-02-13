@@ -263,6 +263,11 @@ M=D
 <img width="394" height="193" alt="Captura de pantalla 2026-02-13 142450" src="https://github.com/user-attachments/assets/35688159-e029-41c2-b951-75c0dd67adb0" />
 <img width="824" height="727" alt="Captura de pantalla 2026-02-13 142826" src="https://github.com/user-attachments/assets/16e13cc3-35b1-45a5-896c-eddc057c55f1" />
 
+@10
+D=A
+@arr0
+M=D
+
 @15
 D=A
 @arr1
@@ -311,8 +316,8 @@ D=M
 M=D
 //Creamos funcion return 
 
-@fin
-(fin)
+@END
+(END)
 0;JMP
 
 
@@ -332,7 +337,7 @@ M=D
     D=D-M       
     @calSum_END
     D;JGE       
-//Creamos un ciclo que compara I con R1 (tamaño del arreglo) Si I es mayor, finaliza y salta a la dirección de D
+ //Creamos un ciclo que compara I con R1 (tamaño del arreglo) Si I es mayor, finaliza y salta a la dirección de D
 
     @R0
     D=M
@@ -345,7 +350,7 @@ M=D
 
     @ADDR
     M=D
-//Guardamos el valor en la variable ADDR
+ //Guardamos el valor en la variable ADDR
     @ADDR
     A=M
     D=M
@@ -371,8 +376,13 @@ M=D
     0;JMP
 //Finalizamos el loop
 
+
 <img width="851" height="741" alt="Captura de pantalla 2026-02-13 152416" src="https://github.com/user-attachments/assets/5d4ea655-5e69-40c7-ac00-9313528f872b" />
-<img width="867" height="790" alt="Captura de pantalla 2026-02-13 152601" src="https://github.com/user-attachments/assets/f8b63f64-4c3a-40ea-a739-69313a3cfaed" />
+Guardamos y mostramos en memoria el valor de cada arreglo 
+<img width="866" height="861" alt="Captura de pantalla 2026-02-13 163949" src="https://github.com/user-attachments/assets/52e923e6-8893-4564-9ceb-d5478468bb7f" />
+De a poco va a sumando, el resultado de la suma por etapas se muestra en R22 
+
+
 <img width="867" height="790" alt="Captura de pantalla 2026-02-13 152601" src="https://github.com/user-attachments/assets/a3435732-87a3-4051-a442-ef63bae84fca" />
 
 
@@ -380,6 +390,7 @@ El resultado de la suma de los arreglos es 80 y se guarda en R0
 El loop se repite hasta sumar todos los valores de cada arreglo
 
 ## Bitácora de reflexión
+
 
 
 
