@@ -23,9 +23,13 @@ Aqui creamos un nuevo nodo con los datos que queremos del trazo y lo agregamos a
 
 Segunda modificación: añadimos un ´dequeqe´
 
+Esta es la función que elimina el nodo más antiguo de la cola
+
 <img width="1077" height="348" alt="Captura de pantalla 2026-03-13 133130" src="https://github.com/user-attachments/assets/1403e46e-f618-4ed6-b80a-efa2b5bbeea8" />
 
 Tercera modificación: agregamos un clear y recorremos los nodos para verificar que la cola está vacía 
+
+Eliminamos los nodos uno por uno cuando se presiona c 
 
 <img width="1129" height="257" alt="Captura de pantalla 2026-03-13 133446" src="https://github.com/user-attachments/assets/034b2e77-0f55-4d28-bf7c-35da87f7d236" />
 
@@ -43,9 +47,23 @@ Segunda implementación: Dibujar trazos almacenados en cola
 
 <img width="1226" height="421" alt="Captura de pantalla 2026-03-13 134732" src="https://github.com/user-attachments/assets/e406e527-1405-41b5-a438-ade67838e65a" />
 
+
 Ultimas modificaciones: teclas para limpiar, cambiar tamaño y guardar frame 
 
-## Bitácora de reflexión
+cuando presionamos a, la cantidad maxima de nodos de la cola cambia de 50 a 100 y viceversa. Cuando presionamos c, se activa clear y limpiamos la pantalla. Cuando presionamos s se guarda la pantalla [No funcional en el momento] 
 
+<img width="1030" height="811" alt="Captura de pantalla 2026-03-13 150522" src="https://github.com/user-attachments/assets/934c8746-56c7-4811-b63d-bb23ecdb1980" />
+
+Tamaño normal 50
+
+<img width="1016" height="828" alt="Captura de pantalla 2026-03-13 151017" src="https://github.com/user-attachments/assets/4f038265-27e1-4bbd-a533-35ac4c0d49ef" />
+
+Tamaño aumentado 100
+
+<img width="1019" height="764" alt="Captura de pantalla 2026-03-13 151354" src="https://github.com/user-attachments/assets/b229518d-2f34-4c8a-a9f2-44a674bdb946" />
+
+Pantalla vacía luego de apretar "c"
+
+##Bitacora de reflexión
 
 
