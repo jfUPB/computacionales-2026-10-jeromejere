@@ -17,6 +17,8 @@ En update() se hace el control de movimiento donde el primer nodo sigue al mouse
 
 Primera modificación de código: añadir ´enqueqe´
 
+Aqui creamos un nuevo nodo con los datos que queremos del trazo y lo agregamos a la cola del trazo, luego analizamos el tamaño de la cola y si esta supera el máximo propuesto, el nodo más antiguo es eliminado
+
 <img width="1102" height="324" alt="Captura de pantalla 2026-03-13 132756" src="https://github.com/user-attachments/assets/a53c97e1-8b3e-44da-9d8f-4b1fc1198a04" />
 
 Segunda modificación: añadimos un ´dequeqe´
@@ -44,5 +46,6 @@ Segunda implementación: Dibujar trazos almacenados en cola
 Ultimas modificaciones: teclas para limpiar, cambiar tamaño y guardar frame 
 
 ## Bitácora de reflexión
+
 
 
