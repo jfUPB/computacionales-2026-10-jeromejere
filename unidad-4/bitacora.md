@@ -29,5 +29,20 @@ Tercera modificación: agregamos un clear y recorremos los nodos para verificar 
 
 Análisis de código preexistente: 
 
+EN ofApp.cpp 
+
+<img width="1254" height="397" alt="Captura de pantalla 2026-03-13 134023" src="https://github.com/user-attachments/assets/c2c3e02f-e87d-49b6-abc3-c398175593bc" />
+
+Primera impletentación: Control del trazo 
+
+<img width="1209" height="351" alt="Captura de pantalla 2026-03-13 134358" src="https://github.com/user-attachments/assets/a5cdf43f-efef-4c6a-b785-c1dd91a84f8b" />
+
+Segunda implementación: Dibujar trazos almacenados en cola 
+
+<img width="1226" height="421" alt="Captura de pantalla 2026-03-13 134732" src="https://github.com/user-attachments/assets/e406e527-1405-41b5-a438-ade67838e65a" />
+
+Ultimas modificaciones: teclas para limpiar, cambiar tamaño y guardar frame 
+
 ## Bitácora de reflexión
+
 
