@@ -65,4 +65,19 @@ Evidencia 2: v_table
 
 Evidencia 3: Polimorfismo en tiempo de ejecución 
 
+<img width="924" height="207" alt="Captura de pantalla 2026-03-27 114439" src="https://github.com/user-attachments/assets/069e35e3-47fe-451d-b6ef-b6fd3c249af9" />
+
+Evidencia 4: 
+
+<img width="904" height="209" alt="Captura de pantalla 2026-03-27 115229" src="https://github.com/user-attachments/assets/bf6bc8fe-92b7-401d-b13b-0abd51e210c6" />
+
+Evidencia 5:
+
+Evidencia 7:
+
+<img width="958" height="739" alt="Captura de pantalla 2026-03-27 122557" src="https://github.com/user-attachments/assets/ab422231-ed8c-41ca-8c6a-a69634c29e2c" />
+
+<img width="1019" height="746" alt="Captura de pantalla 2026-03-27 122622" src="https://github.com/user-attachments/assets/bdc2944f-9fcc-43e4-985c-9be88c0e287a" />
+
+
 ## Bitácora de reflexión
