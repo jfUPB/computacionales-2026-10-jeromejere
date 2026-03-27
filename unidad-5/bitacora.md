@@ -89,6 +89,9 @@ Evidencia 5:
 
 Muerte de particula, dejando un HexagonExplosion 
 
+<img width="975" height="735" alt="Captura de pantalla 2026-03-27 134956" src="https://github.com/user-attachments/assets/72879210-d5f7-4525-a243-c1f7a41c702a" />
+
+Nacimiento de particula BouncingParticle
 
 Evidencia 6: 
 
