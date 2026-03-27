@@ -43,7 +43,26 @@ Tipos de explosión
 
 ## Bitácora de aplicación 
 
+Evidencia 1: Herencia en Memoria 
 
+Para "BouncingParticle"
 
+<img width="907" height="135" alt="Captura de pantalla 2026-03-27 105348" src="https://github.com/user-attachments/assets/13df92c0-c503-4914-b574-f659102a2ec9" />
+
+"BouncingParticle" Hereda directamente de la clase "Particle" su estructura. 
+
+<img width="921" height="189" alt="Captura de pantalla 2026-03-27 111046" src="https://github.com/user-attachments/assets/48796f1d-acc7-46f7-bf6b-7685b548dbe3" />
+
+-
+
+<img width="908" height="160" alt="Captura de pantalla 2026-03-27 111518" src="https://github.com/user-attachments/assets/1ff8a0c6-edfe-4493-affa-5653926603b6" />
+
+Evidencia 2: v_table 
+
+<img width="898" height="210" alt="Captura de pantalla 2026-03-27 112229" src="https://github.com/user-attachments/assets/2672708a-0026-46d1-9b81-f4aa55cf0f1b" />
+
+<img width="897" height="208" alt="Captura de pantalla 2026-03-27 112336" src="https://github.com/user-attachments/assets/ab07bc03-a9a3-4bb7-b286-7f76aef1e093" />
+
+Evidencia 3: Polimorfismo en tiempo de ejecución 
 
 ## Bitácora de reflexión
