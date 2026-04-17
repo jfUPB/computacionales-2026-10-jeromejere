@@ -27,13 +27,15 @@ Evidencia 2
 <img width="985" height="188" alt="Captura de pantalla 2026-04-17 143713" src="https://github.com/user-attachments/assets/08561806-61e6-43c3-b0de-82718ac68c99" />
 
 
+Cada evento apunta a su propia v_table, tienen una posición distinta en memoria 
+
 Evidencia 3 
 
 Presionamos tecla "o" para activar nuestro nuevo evento 
 
 <img width="906" height="597" alt="Captura de pantalla 2026-04-17 145114" src="https://github.com/user-attachments/assets/0403fa69-6b10-4e58-9ff1-1d64560cf506" />
 
-Se recorre la lista de observers (las particulas) para confirmal colocamos breakpoint en subject : notify 
+Se recorre la lista de observers (las particulas) para confirmar colocamos breakpoint en subject : notify 
 
 <img width="916" height="207" alt="Captura de pantalla 2026-04-17 145700" src="https://github.com/user-attachments/assets/29202b50-4504-4f5c-948b-0926c86da777" />
 
@@ -48,6 +50,9 @@ Normal State
 Orbit State (nuevo)
 
 <img width="898" height="206" alt="Captura de pantalla 2026-04-17 150234" src="https://github.com/user-attachments/assets/752713fb-b87a-4c00-935d-245707f42917" />
+
+Al activarse el estado, pasamos de normal state a orbital state
+
 
 Evidencia 4
 
