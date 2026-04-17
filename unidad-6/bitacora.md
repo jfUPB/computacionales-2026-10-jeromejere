@@ -53,6 +53,8 @@ Orbit State (nuevo)
 
 Al activarse el estado, pasamos de normal state a orbital state
 
+<img width="659" height="592" alt="Captura de pantalla 2026-04-17 155014" src="https://github.com/user-attachments/assets/fabbf116-e60e-4aff-aef9-4eb47b9c0975" />
+
 
 Evidencia 4
 
