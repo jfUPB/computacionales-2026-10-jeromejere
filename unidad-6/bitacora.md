@@ -47,6 +47,19 @@ Orbit State (nuevo)
 
 <img width="898" height="206" alt="Captura de pantalla 2026-04-17 150234" src="https://github.com/user-attachments/assets/752713fb-b87a-4c00-935d-245707f42917" />
 
+Evidencia 4
+
+Breakpoint en el nuevo estado 
+
+<img width="1243" height="216" alt="Captura de pantalla 2026-04-17 152058" src="https://github.com/user-attachments/assets/41f82911-cfd5-4956-8e3c-c1ce8969e221" />
+
+Valores del nuevo estado 
+
+<img width="863" height="210" alt="Captura de pantalla 2026-04-17 152051" src="https://github.com/user-attachments/assets/e41505df-9c3b-4370-b749-dd2b7096afb6" />
+
+Herencia directa de state 
+
+<img width="898" height="236" alt="Captura de pantalla 2026-04-17 152045" src="https://github.com/user-attachments/assets/6c6b32ac-33b3-4530-9a85-621713a9a8c5" />
 
 
 ## Bitácora de reflexión
