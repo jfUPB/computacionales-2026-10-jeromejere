@@ -22,5 +22,31 @@ Evidencia 2
 
 <img width="902" height="205" alt="Captura de pantalla 2026-04-17 143335" src="https://github.com/user-attachments/assets/089aac41-1459-47af-a68a-9e696fe6cc16" />
 
+<img width="985" height="188" alt="Captura de pantalla 2026-04-17 143713" src="https://github.com/user-attachments/assets/08561806-61e6-43c3-b0de-82718ac68c99" />
+
+
+Evidencia 3 
+
+Presionamos tecla "o" para activar nuestro nuevo evento 
+
+<img width="906" height="597" alt="Captura de pantalla 2026-04-17 145114" src="https://github.com/user-attachments/assets/0403fa69-6b10-4e58-9ff1-1d64560cf506" />
+
+Se recorre la lista de observers (las particulas) para confirmal colocamos breakpoint en subject : notify 
+
+<img width="916" height="207" alt="Captura de pantalla 2026-04-17 145700" src="https://github.com/user-attachments/assets/29202b50-4504-4f5c-948b-0926c86da777" />
+
+Breakpoint en Setstate
+
+<img width="866" height="193" alt="Captura de pantalla 2026-04-17 150243" src="https://github.com/user-attachments/assets/77590ef9-a8bc-4ac0-be9c-ef2b678fb9c9" />
+
+Normal State
+
+<img width="911" height="200" alt="Captura de pantalla 2026-04-17 150300" src="https://github.com/user-attachments/assets/9c9ccba2-fc7e-485f-bdc1-060f1943a6c3" />
+
+Orbit State (nuevo)
+
+<img width="898" height="206" alt="Captura de pantalla 2026-04-17 150234" src="https://github.com/user-attachments/assets/752713fb-b87a-4c00-935d-245707f42917" />
+
+
 
 ## Bitácora de reflexión
