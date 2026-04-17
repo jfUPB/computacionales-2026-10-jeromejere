@@ -18,5 +18,9 @@ Evidancia 1
 
 Evidencia 2
 
+<img width="914" height="202" alt="Captura de pantalla 2026-04-17 142527" src="https://github.com/user-attachments/assets/af2c0e63-ea29-4b92-9d30-e09831c1c125" />
+
+<img width="902" height="205" alt="Captura de pantalla 2026-04-17 143335" src="https://github.com/user-attachments/assets/089aac41-1459-47af-a68a-9e696fe6cc16" />
+
 
 ## Bitácora de reflexión
