@@ -16,6 +16,8 @@ Evidancia 1
 
 <img width="279" height="315" alt="Captura de pantalla 2026-04-17 141020" src="https://github.com/user-attachments/assets/4cf2982e-f286-4f54-b4a7-510bc77b6498" />
 
+Se muestra como la particula funciona y se muestra dentro del programa, en este caso es la particula amarilla. También se muestran las características de la particula, es más rápida. 
+
 Evidencia 2
 
 <img width="914" height="202" alt="Captura de pantalla 2026-04-17 142527" src="https://github.com/user-attachments/assets/af2c0e63-ea29-4b92-9d30-e09831c1c125" />
