@@ -201,7 +201,12 @@ Evidencia 3
 
 <img width="918" height="245" alt="Captura de pantalla 2026-04-28 183242" src="https://github.com/user-attachments/assets/33ff65f7-1a9b-4bb2-9a19-6e986548a96c" />
 
+<img width="892" height="171" alt="Captura de pantalla 2026-04-28 184430" src="https://github.com/user-attachments/assets/7d797645-ae7e-4b6c-9262-8f45fd136067" />
+
+
 Offset, su posicion, empieza fija mientras que no hay cambios directos al arreglo "vertices". La forma de la figura no cambia, solo se traslada. Esto sucede si presionamos la tecla izquierda o derecha del teclado. 
+
+Colormode, ajusta el color, su valor cambia con el tiempo
 
 <img width="786" height="637" alt="Captura de pantalla 2026-04-28 183758" src="https://github.com/user-attachments/assets/e96bb98c-67b3-4f4a-ac42-86b30984edfd" />
 
@@ -211,6 +216,26 @@ Triángulo en posición inicial
 
 Triángulo trasladado ligeramente. Sus vertices y forma no cambian
 
-El shader aplica los uniforms sobre vertices ya cargados, pudiendo alterar posición o color.
+El shader aplica los uniforms, que se actualizan cada frame, sobre vertices ya cargados, pudiendo alterar posición o color.
+
+Evidencia 4
+
+<img width="1146" height="809" alt="Captura de pantalla 2026-04-28 185259" src="https://github.com/user-attachments/assets/3affedaa-3068-41a5-b217-a7565dfed81b" />
+
+Al forzar el offset, en principio, se nos muestra una advertencia de que hay objetos que no se pueden cargar. Luego, al ejecutar el programa normalmente el triangulo ha desaparecido (Está fuera de los bordes máximos del programa) 
+
+<img width="969" height="84" alt="Captura de pantalla 2026-04-28 194019" src="https://github.com/user-attachments/assets/38edbd6f-8e39-40c2-966b-b46075fd264d" />
+
+Al usar esta opción, solo esperaba que el programa se ejecutara normalmente, más no que hubiera una advertencia directa ni que dierectamente no cargaran los vertices. Era esperable que no apareciera en pantalla pues al moverlo cierto punto el triangulo ya no es visible.
+
+Evidencia 5 
+
+Elegí por qué un dato va como "uniform" y como atributo 
+
+Los atributos son valores que cambian por vertice en este caso. Modifican directamente los vertices. Se almacenan en la VBO y se leen el shader. 
+
+Los "uniforms" son valores que cambian por frame. Son globales para todos los vertices y fragmentos, por lo que no dependen de; ni modifican unicamente los vertices. Se actualizan en cada interacción o frame por tiempo y son ideales para parametros que afectan la geometria completa y el color.
+
+Se utilizan uniforms en vez de atributos directos ya que, en principio por las necesidades del ejercicio se debe modificar el color de la figura(Que es posible desde los uniforms), y su posición como una sola figura, que es relativamente más sencillo utilizando los uniforms.
 
 ## Bitácora de reflexión
